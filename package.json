@@ -1,0 +1,24 @@
+{
+  "name": "wilmer-dentist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velezw252-oss/dentist-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/velezw252-oss/dentist-landing/issues"
+  },
+  "homepage": "https://github.com/velezw252-oss/dentist-landing#readme",
+  "dependencies": {
+    "googleapis": "^171.4.0"
+  }
+}
